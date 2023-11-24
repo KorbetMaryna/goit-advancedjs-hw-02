@@ -30,7 +30,7 @@ li{
 }
 
 .main-body {
-  background-image: url(https://img.freepik.com/free-vector/stylish-white-background-with-diagonal-lines_1017-33199.jpg?w=1480&t=st=1700792430~exp=1700793030~hmac=480b6098df52e61aac3ce2e0c90977859bb03231aedcbeb5ce1b91cec51dbf32);
+  background-image: url(../../images/diagonal-lines.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   display: block;
@@ -59,7 +59,7 @@ li{
 
 /* timer */
 .timer {
-  background-image: url(https://img.freepik.com/free-photo/clock-pen-glasses-white-space_155003-12975.jpg?w=1060&t=st=1700796423~exp=1700797023~hmac=69054491af2ec9c9e807eeaafe59aba0fdf07ea4eabfffdbbc3eaa88232fdb27);
+  background-image: url(../../images/clock-pen-glasses-white-space.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
