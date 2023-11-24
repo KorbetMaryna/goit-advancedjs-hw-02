@@ -40,7 +40,7 @@ function onSubmitForm(e){
           message: `✅ Fulfilled promise ${position} in ${delay}ms`,
           position: 'center',
           backgroundColor: 'lightgray',
-          timeout: 5000,
+          timeout: 3000,
         });
       })
       .catch(({ position, delay }) => {
@@ -49,7 +49,7 @@ function onSubmitForm(e){
           message: `❌ Rejected promise ${position} in ${delay}ms`,
           position: 'center',
           backgroundColor: 'grey',
-          timeout: 5000,
+          timeout: 3000,
         }); 
       });
     delay += step;
