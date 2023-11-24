@@ -30,6 +30,7 @@ const options = {
                 title: 'Alert',
                 message: 'Please choose a date in the future',
                 position: 'center',
+                backgroundColor: 'lightgray',
             });    
         }
         else {
