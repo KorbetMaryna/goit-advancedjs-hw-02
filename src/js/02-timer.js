@@ -55,6 +55,7 @@ function timeUpdate() {
     const deltaDate = startDate - currentDate;
 
     if (deltaDate <= 0) {
+        refs.input.disabled = false;
         return;
     }
     else {
